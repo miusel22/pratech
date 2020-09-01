@@ -1,0 +1,21 @@
+body{
+background: #BE93C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.img-responsive{
+margin-top: 20px;
+margin-bottom: 20px;
+width:150px;
+height: 150px;
+
+}
+.img-logo{
+width: 100px;    
+}
+.search{
+width: 300px;
+height: 30px;    
+border-radius: 0px 0px 2px 2px;
+}

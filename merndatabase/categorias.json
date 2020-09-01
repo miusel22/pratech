@@ -1,0 +1,35 @@
+{ 
+    "_id" : ObjectId("5f4dce7e414ae023b03d0ada"), 
+    "username" : "Maquillaje", 
+    "createdAt" : ISODate("2020-09-01T04:30:54.998+0000"), 
+    "updatedAt" : ISODate("2020-09-01T04:30:54.998+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f4dce81414ae023b03d0adb"), 
+    "username" : "Hogar", 
+    "createdAt" : ISODate("2020-09-01T04:30:57.413+0000"), 
+    "updatedAt" : ISODate("2020-09-01T04:30:57.413+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f4dce84414ae023b03d0adc"), 
+    "username" : "Calzado", 
+    "createdAt" : ISODate("2020-09-01T04:31:00.710+0000"), 
+    "updatedAt" : ISODate("2020-09-01T04:31:00.710+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f4dce93414ae023b03d0add"), 
+    "username" : "Juguetería", 
+    "createdAt" : ISODate("2020-09-01T04:31:15.328+0000"), 
+    "updatedAt" : ISODate("2020-09-01T04:31:15.328+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5f4dce96414ae023b03d0ade"), 
+    "username" : "Muebles", 
+    "createdAt" : ISODate("2020-09-01T04:31:18.517+0000"), 
+    "updatedAt" : ISODate("2020-09-01T04:31:18.517+0000"), 
+    "__v" : NumberInt(0)
+}
