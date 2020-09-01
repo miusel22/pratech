@@ -107,17 +107,17 @@ export default class Home extends Component {
                             </div>
                             <div className="card-body">
                                 <p>
-                                   <strong>{product.categoria}</strong>    
+                                    <strong>{product.categoria}</strong>
                                 </p>
                                 <p>
-                                   <strong>Descripción :</strong>  {product.descripcion}
+                                    <strong>Descripción :</strong>  {product.descripcion}
                                 </p>
 
 
 
                                 <p>
-                                <strong>Productos en stock:</strong>  {product.stock} 
-                                        </p>
+                                    <strong>Productos en stock:</strong>  {product.stock}
+                                </p>
 
                                 <p><strong>Referencia :</strong> {product._id} </p>
                             </div>

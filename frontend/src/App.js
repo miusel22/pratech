@@ -7,7 +7,6 @@ import NotesList from './components/ProductList'
 import CreateProduct from './components/CreateProduct'
 import Home from './components/Home';
 
-
 import './App.css';
 
 function App() {
